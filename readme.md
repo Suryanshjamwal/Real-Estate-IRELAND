@@ -2,7 +2,7 @@
 
 <table align = "center">
   <tr>
-    <td><img src="pic.png"  width="200" height="250" />
+    <td><img src="pic.png"  width="500" height="250" />
  </table>
 
 This project is an exploratory data analysis of the real estate market trends in Ireland from the year 2010 to 2021. The purpose of this analysis is to provide insights into the performance of the Irish real estate market over this period, and to identify any notable trends or patterns that may be of interest to potential buyers, investors, or other stakeholders in the industry.
