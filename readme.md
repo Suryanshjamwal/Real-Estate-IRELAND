@@ -67,6 +67,18 @@ https://public.tableau.com/views/RealEstateAnalysis-Ireland/Summary?:language=en
 ### How to navigate?
 
 <p align="center">
-  <img width="800" height="550" src="graphics/SS1.png">
+  <img width="800" height="600" src="graphics/SS1.png">
+</p>
+
+<p align="center">
+  <img width="800" height="600" src="graphics/SS2.png">
+</p>
+
+<p align="center">
+  <img width="800" height="600" src="graphics/SS3.png">
+</p>
+
+<p align="center">
+  <img width="800" height="600" src="graphics/SS4.png">
 </p>
 
