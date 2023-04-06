@@ -10,7 +10,17 @@ This project is an exploratory data analysis of the real estate market trends in
 
 The data used for this analysis was sourced from Central Statistics Office (CSO), one of the largest online statistics platforms in Ireland, gov.ie, property price register and EU Central Bank. 
 
-The dataset pulled from property register includes information on around 600,000 property listings over the period from January 2010 to December 2023. Rest other datasets from CSO and EU Central Bank include data from 2010-2021 of Rental properties, Buyers demographics, Gross Value added, population, migration, unemployement rate, interest rates, income and inflation rate. 
+The dataset pulled from <b> property register </b> includes information on around 600,000 property listings over the period from January 2010 to December 2023. Rest other datasets from CSO and EU Central Bank include data from 2010-2021 of: 
+
+* Rental properties
+* Buyers demographics
+* Gross Value added
+* Population
+* Migration
+* Unemployement Rates
+* Interest rates
+* Income
+* Inflation rates 
 
 These datasets were chosen to find out how each one of the decision metrics inlfuenced property and rental prices in the Irish market.
 
