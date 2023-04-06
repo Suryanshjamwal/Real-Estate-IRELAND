@@ -62,7 +62,7 @@ This [sql file](code.sql) contains some of the key relevant queries used for thi
 
 Link to the tableau Dashboards:
 
-https://public.tableau.com/views/RealEstateAnalysis-Ireland/Summary?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/suryansh.jamwal/viz/RealEstateAnalysis-Ireland/Summary
 
 ### How to navigate?
 
