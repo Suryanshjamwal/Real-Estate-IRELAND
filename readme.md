@@ -64,8 +64,9 @@ Link to the tableau Dashboards:
 
 https://public.tableau.com/views/RealEstateAnalysis-Ireland/Summary?:language=en-US&:display_count=n&:origin=viz_share_link
 
-How to navigate?
+### How to navigate?
 
 <p align="center">
-  <img width="800" height="450" src="pic.png">
+  <img width="800" height="450" src="graphics/SS1.png">
 </p>
+
