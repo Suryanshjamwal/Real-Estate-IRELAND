@@ -1,9 +1,8 @@
-# tl;dr
-# Exploratory Data Analysis: Real Estate Market Trends in Ireland (2010-2021)
+# Exploratory Data Analysis: Real Estate Market Trends in Ireland (2010-2021) tl;dr 
 
-<table align = "center" cellspacing="0" cellpadding="0">
-  <td><img src="pic.png"  width="700" height="380" />
-</table>
+<p align="center">
+  <img width="720" height="380" src="pic.png">
+</p>
 
 This project is an exploratory data analysis of the real estate market trends in Ireland from the year 2010 to 2021. The purpose of this analysis is to provide insights into the performance of the Irish real estate market over this period, and to identify any notable trends or patterns that may be of interest to potential buyers, investors, or other stakeholders in the industry.
 
