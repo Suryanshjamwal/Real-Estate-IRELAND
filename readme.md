@@ -1,8 +1,9 @@
+# tl;dr
 # Exploratory Data Analysis: Real Estate Market Trends in Ireland (2010-2021)
 
-<table align = "center">
+<table align = "center" cellspacing="0" cellpadding="0">
   <td><img src="pic.png"  width="700" height="380" />
- </table>
+</table>
 
 This project is an exploratory data analysis of the real estate market trends in Ireland from the year 2010 to 2021. The purpose of this analysis is to provide insights into the performance of the Irish real estate market over this period, and to identify any notable trends or patterns that may be of interest to potential buyers, investors, or other stakeholders in the industry.
 
@@ -50,9 +51,8 @@ This [sql file](code.sql) contains some of the key relevant queries used for thi
 
 ## Data Visualisation 
 
-<html>
-<body>
-<div class='tableauPlaceholder' id='viz1680807121880' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealEstateAnalysis-Ireland&#47;Summary&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RealEstateAnalysis-Ireland&#47;Summary' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealEstateAnalysis-Ireland&#47;Summary&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1680807121880');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.maxWidth='1450px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';vizElement.style.maxHeight='910px';} else { vizElement.style.width='100%';vizElement.style.height='2150px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>         
+Link to the tableau Dashboards:
 
-</body>
-<html>
+https://public.tableau.com/views/RealEstateAnalysis-Ireland/Summary?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
