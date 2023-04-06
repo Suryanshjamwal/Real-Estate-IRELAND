@@ -67,11 +67,11 @@ https://public.tableau.com/app/profile/suryansh.jamwal/viz/RealEstateAnalysis-Ir
 ### How to navigate?
 
 <p align="center">
-  <img width="800" height="580" src="graphics/SS1.png">
+  <img src="graphics/SS1.png">
 </p>
 
 <p align="center">
-  <img width="800" height="520" src="graphics/SS2.png">
+  <img src="graphics/SS2.png">
 </p>
 
 <p align="center">
