@@ -4,7 +4,7 @@
   <img src="graphics/pic.png">
 </p>
 
-This project is an exploratory data analysis of the real estate market trends in Ireland from the year 2010 to 2021. The purpose of this analysis is to provide insights into the performance of the Irish real estate market over this period, and to identify any notable trends or patterns that may be of interest to potential buyers, investors, or other stakeholders in the industry.
+This project is an exploratory data analysis of the real estate market trends in Ireland from the year 2010 to 2021. The purpose of this analysis is to provide insights into the performance of the Irish real estate market over this period, and to identify any notable trends or patterns that may be of interest to potential buyers, investors, renters or other stakeholders in the industry.
 
 ## Data Source
 
@@ -65,6 +65,16 @@ Link to the tableau Dashboards:
 https://public.tableau.com/app/profile/suryansh.jamwal/viz/RealEstateAnalysis-Ireland/Summary
 
 ### How to navigate?
+
+* Summary - Dashboard 1
+
+Displays median property and rental prices in Ireland and respective counties for each year. 
+
+Common filter for each visual - Year and County
+
+Avg. Property price and number of for sale properties can be quried according to property standard (new/old).
+
+Avg. Rent and number of rental properties can be distinguished on total bedrooms.
 
 <p align="center">
   <img src="graphics/SS1.png">
