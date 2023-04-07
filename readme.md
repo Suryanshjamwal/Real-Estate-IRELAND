@@ -80,13 +80,34 @@ Avg. Rent and number of rental properties can be distinguished on total bedrooms
   <img src="graphics/SS1.png">
 </p>
 
+* Metrics - Dashboard 2
+
+Insight on different decision metrics for property prices.
+
+Inward or outward flow quries total imgrants and emmigrants. 
+
 <p align="center">
   <img src="graphics/SS2.png">
 </p>
 
+* Rental - Dashboard 3
+
+Common filters are Year and number of bedrooms.
+
+Dashboard fisplays average Rental prices for each property type in different Counties.
+
 <p align="center">
   <img src="graphics/SS3.png">
 </p>
+
+* Buyer - Dashboard 3
+
+Buyer demographics include age, income and price of property purchased. 
+
+Common filter include Stamp Duty Event, Transaction Type, Region ad Year.
+
+Avg. Income and age of buyers can be quried on type of buyer (with/without child).
+
 
 <p align="center">
   <img src="graphics/SS4.png">
