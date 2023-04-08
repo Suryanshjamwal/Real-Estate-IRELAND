@@ -125,6 +125,8 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
 
 * Total For-sale properties on market increased at a rate of 13.47% over the years.
 
+* Most affordable county to buy a property - Leitrim
+
 ### Rental peroperties
 
 * Average Rent (Ireland) - €983.45
@@ -138,6 +140,16 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
 * Most affordable county to rent - Leitrim
 
 ## Key Takeaways
+
+* There was a slight dip in average prices from 2010 - 2012, however overall property prices increased dramatically over the 11 year period at a rate of 3.03% on average.
+
+* Similarly, the average rental price in the country increased from €799.4 in 2010 to €1,269.9 in 2021 at a rate of 4.26% on average. 
+
+* With increased prices, the total number of for-sale properties also increased dramatically. However, number of rentals from 2012 has slighly decreased as more landlords are willing to sell instead of renting. When the maintenance costs and LPT are much higher than the rental income, landlords tend to exit the market.
+
+* As usual the net migration, population, GDP and uemplyement has a direct affect on the property prices, which has been a contributing factor here as well. 
+
+* Median age of Buyers has increased from 35 in 2010 to 39 in 2021, making it difficult for youngsters to barge in the market even when the national median income per person increased. Nonetheless, median age of buyers without children has decreased over the years. Having less dependants surely has created more opportunities and capital for youngsters to buy a property.
 
 
 
