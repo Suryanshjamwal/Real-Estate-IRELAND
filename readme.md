@@ -22,7 +22,7 @@ The dataset pulled from <b> property register </b> includes information on aroun
 * Income
 * Inflation rates 
 
-These datasets were chosen to find out how each one of the decision metrics inlfuenced property and rental prices in the Irish market.
+These datasets were chosen to find out how such economic and geographical metrics influenced property and rental prices in the Irish market.
 
 ## Data Exploration
 
@@ -56,7 +56,7 @@ Using SQL and Excel, the datasets were queried to find out any abnormalities or 
 
 Using the query language most of the transforamtions, extraction and manipulations were handled.
 
-This [sql file](code.sql) contains some of the key relevant queries used for this analysis project. SQL commands like JOIN ON, UPDATE, PARTITION BY, GROUP BY, ORDER BY, DELETE, etc helped in general manipulation tasks.
+This [sql file](code.sql) contains few of the relevant queries used for this analysis project. SQL commands like JOIN ON, UPDATE, PARTITION BY, GROUP BY, ORDER BY, DELETE, etc helped in general manipulation tasks.
 
 ## Data Visualisation 
 
