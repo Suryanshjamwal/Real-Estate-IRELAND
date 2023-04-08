@@ -113,7 +113,7 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
   <img src="graphics/SS4.png">
 </p>
 
-## Market analysis 2010 - 2021
+## Market Summary 2010 - 2021
 
 ### For-Sale Property
 
@@ -133,10 +133,14 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
 
 * Most affordable (per renter) rental category - 1 to 3 Bed
 
-* Most affordable property type : 
-Ireland - Detached House
-Dublin - Apartment
+* Most affordable property type : Ireland - Detached House; Dublin - Apartment
 
 * Most affordable county to rent - Leitrim
+
+## Key Takeaways
+
+
+
+
  
 
