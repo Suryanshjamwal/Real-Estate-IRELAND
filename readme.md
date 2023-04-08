@@ -133,8 +133,10 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
 
 * Most affordable (per renter) rental category - 1 to 3 Bed
 
-* Most affordable property type - Detached House
+* Most affordable property type : 
+Ireland - Detached House
+Dublin - Apartment
 
 * Most affordable county to rent - Leitrim
-
+ 
 
