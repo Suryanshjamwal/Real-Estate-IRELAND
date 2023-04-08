@@ -113,5 +113,28 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
   <img src="graphics/SS4.png">
 </p>
 
-## Key takeaways/Learnings
+## Market analysis 2010 - 2021
+
+### For-Sale Property
+
+* Average property price (Ireland) - €277,918
+
+* Average price range -  from €104,239 in County Longford to €423,880 in County Dublin
+
+* Prices increased by an average rate of 3.03% over the years. Median market prices increased by 39.3% from 2010 - 2021.
+
+* Total For-sale properties on market increased at a rate of 13.47% over the years.
+
+### Rental peroperties
+
+* Average Rent (Ireland) - €983.45
+
+* Rental price range - €233.67 to €6522.48
+
+* Most affordable (per renter) rental category - 1 to 3 Bed
+
+* Most affordable property type - Detached House
+
+* Most affordable county to rent - Leitrim
+
 
