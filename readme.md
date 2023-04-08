@@ -72,7 +72,7 @@ Displays median property and rental prices in Ireland and respective counties fo
 
 Common filter for each visual - Year and County
 
-Avg. Property price and number of for sale properties can be quried according to property standard (new/old).
+Avg. Property price and number of for sale properties can be quried according to property standard (new/second-hand).
 
 Avg. Rent and number of rental properties can be distinguished on total bedrooms.
 
@@ -112,4 +112,6 @@ Avg. Income and age of buyers can be quried on type of buyer (with/without child
 <p align="center">
   <img src="graphics/SS4.png">
 </p>
+
+## Key takeaways/Learnings
 
