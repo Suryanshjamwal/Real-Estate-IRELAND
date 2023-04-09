@@ -67,6 +67,39 @@ ALTER TABLE `property`
 DROP COLUMN Property_Size_Description;
 
 -- Using Vlookup in excel to fill out regions based on different counties
+-- Or Using Case statements like:
+
+SELECT County, Region = 
+CASE 
+WHEN County = 'Dublin' THEN 'Dublin'
+WHEN County = 'Meath' OR
+     County = 'Louth' OR
+     County = 'Kildare' OR
+     County = 'Wicklow' THEN 'Mid East'
+WHEN County = 'Wexford' OR
+     County = 'Carlow' OR
+     County = 'Kilkenny' OR
+     County = 'Waterford' THEN 'South East'
+WHEN County = 'Cork' OR
+     County = 'Kerry' THEN 'South West' 
+WHEN County = 'Limerick' OR
+     County = 'Clare' OR
+     County = 'Tipperary' THEN 'Mid West'
+WHEN County = 'Galway' OR
+     County = 'Mayo' OR
+     County = 'Roscommon' THEN 'West'
+WHEN County = 'Longford' OR
+     County = 'Westmeath' OR
+     County = 'Offaly' OR
+     County = 'Laoighis' THEN 'Midlands'
+WHEN County = 'Monaghan' OR
+     County = 'Cavan' OR
+     County = 'Leitrim' OR
+     County = 'Sligo' OR
+     County = 'Donegal' THEN 'Border'
+END 
+FROM 'property'
+GO
 
 -----------------------------------------------------------------------
 -- Rental Table
