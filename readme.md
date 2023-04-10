@@ -72,7 +72,7 @@ Displays median property and rental prices in Ireland and respective counties fo
 
 Common filter for each visual - Year and County
 
-Avg. Property price and number of for sale properties can be quried according to property standard (new/second-hand).
+Avg. Property price and number of for sale properties can be queried according to property standard (new/second-hand).
 
 Avg. Rent and number of rental properties can be distinguished on total bedrooms.
 
@@ -84,7 +84,7 @@ Avg. Rent and number of rental properties can be distinguished on total bedrooms
 
 Insight on different decision metrics for property prices.
 
-Inward or outward flow quries total imgrants and emmigrants. 
+Inward or outward flow queries total imgrants and emmigrants. 
 
 <p align="center">
   <img src="graphics/SS2.png">
@@ -106,7 +106,7 @@ Buyer demographics include age, income and price of property purchased.
 
 Common filter include Stamp Duty Event, Transaction Type, Region ad Year.
 
-Avg. Income and age of buyers can be quried on type of buyer (with/without child).
+Avg. Income and age of buyers can be queried on type of buyer (with/without child).
 
 
 <p align="center">
